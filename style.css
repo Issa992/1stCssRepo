@@ -82,8 +82,10 @@ a:hover, a:active{
 }
 
 .images{
-
-}
+    height:600px;
+    margin-left:120px;
+  
+  }
 .firstP{
   overflow:auto;
 }
